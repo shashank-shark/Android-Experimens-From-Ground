@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">ToDo</string>
-    <string name="innerTextValue">Hello Shashank!</string>
+    <string name="innterTextName">login here</string>
+    <string name="app_name">Shashank</string>
+    <string name="LogIn">Login</string>
 </resources>
